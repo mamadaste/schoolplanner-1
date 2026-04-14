@@ -1,3 +1,3 @@
 window.SP_CONFIG = {
-  schoolCode: 'KIES_EEN_CODE',
+  schoolCode: 'usable7OSAKA@gin',
 };
